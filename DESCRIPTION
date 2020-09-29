@@ -1,0 +1,13 @@
+Package: wwarnsurveyr
+Type: Package
+Title: R Port of WWARN Antimalarial Resistance Surveyors
+Version: 0.1.0
+Authors@R: person("Ernest", "Guevarra", 
+    comment = c(ORCID = "0000-0002-4887-4415"), 
+    email = "ernest@guevarra.io", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+Language: en-GB
+LazyData: true
