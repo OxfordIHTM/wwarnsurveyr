@@ -36,7 +36,7 @@ usethis::use_data(sulphadoxine, overwrite = TRUE, compress = "xz")
 x <- read.csv(file = "data-raw/Data_and_Instructions/IDDO_NMFI_Review_data.csv")
 
 ## create new object
-vivax <- x
+vivax <- tibble::tibble(x)
 
 ## Save as .rda format
 usethis::use_data(vivax, overwrite = TRUE, compress = "xz")

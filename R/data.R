@@ -72,3 +72,77 @@
 "act_partner"
 
 
+################################################################################
+#
+#'
+#' Sulphadoxine pyrimethamine (SP) resistance
+#'
+#' Sulphadoxine pyrimethamine (SP) is the recommended intermittent preventive
+#' treatment (IPTp) against malaria infection for pregnant women and
+#' SP + Amodiaquine is the combination used for seasonal malaria
+#' chemoprophylaxis (SMC).  Because these two preventive treatments are now
+#' being widely deployed, there is renewed interest in the level of resistance
+#' to these antimalarials. This dataset provides information on the prevalence
+#' of molecular markers associated with resistance to SP found in
+#' *Plasmodium falciparum* malaria parasite by year and location.
+#'
+#' @format A tibble with 7855 rows and 22 columns:
+#'
+#' @examples
+#' sulphadoxine
+#'
+#' @source
+#' https://www.wwarn.org/tracking-resistance/sp-molecular-surveyor
+#'
+#'
+#
+################################################################################
+"sulphadoxine"
+
+
+################################################################################
+#
+#'
+#' Plasmodium vivax clinical trials
+#'
+#' Data on prevalence of *Plasmodium vivax* antimalarial clinical trials across
+#' the world. The data are derived from a recent review of *Plasmodium vivax*
+#' antimalarial clinical trials.
+#'
+#' @format A tibble with 16326 rows and 44 columns:
+#'
+#' @examples
+#' vivax
+#'
+#' @source
+#' https://www.wwarn.org/tracking-resistance/vivax-surveyor
+#'
+#'
+#
+################################################################################
+"vivax"
+
+
+################################################################################
+#
+#'
+#' Antimalarial medicine quality
+#'
+#' Substandard and falsified (SF) antimalarial medicines pose an immediate
+#' danger to vulnerable populations and could increase the threat of malaria
+#' drug resistance emerging and spreading. The major challenge in preventing
+#' the spread and distribution of poor quality medical products is the lack of
+#' accessible and reliable information on their prevalence.
+#'
+#' @format A tibble with 1553 rows and 37 columns:
+#'
+#' @examples
+#' medicine_quality
+#'
+#' @source
+#' https://www.wwarn.org/about-us/medicine-quality/mq-scientific-literature-surveyor-antimalarial-quality-data
+#'
+#'
+#
+################################################################################
+"medicine_quality"

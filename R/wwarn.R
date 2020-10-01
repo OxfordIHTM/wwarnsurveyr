@@ -5,7 +5,7 @@
 #'
 #' @docType package
 #' @keywords internal
-#' @name wwarn
+#' @name wwarnsurveyr
 #'
 #'
 #
