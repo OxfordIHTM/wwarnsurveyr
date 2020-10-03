@@ -5,8 +5,16 @@ Version: 0.1.0
 Authors@R: person("Ernest", "Guevarra", 
     comment = c(ORCID = "0000-0002-4887-4415"), 
     email = "ernest@guevarra.io", role = c("aut", "cre"))
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: The WorldWide Antimalarial Resistance Network (WWARN)'s mission is 
+    to generate innovative tools and reliable evidence to inform the malaria 
+    community on the factors affecting the efficacy of antimalarial medicines. 
+    WWARN works with collaborators to optimise the efficacy of antimalarial 
+    medicines and treatment regimens, especially for vulnerable groups including 
+    pregnant women, infants and malnourished children, and provides evidence to 
+    inform the development of new antimalarial drugs. WWARN also engages and 
+    works with other disease research communities to replicate this model for 
+    other tropical and neglected diseases. WWARN's interactive maps summarise
+    data from published studies and data stored in the WWARN data centre.
 License: GPL-3
 Depends: 
     R (>= 2.10)
@@ -14,3 +22,5 @@ Encoding: UTF-8
 Language: en-GB
 LazyData: true
 RoxygenNote: 7.1.1
+URL: https://github.com/spatialworks/wwarnsurveyr
+BugReports: https://github.com/spatialworks/wwarnsurveyr/issues
