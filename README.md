@@ -7,6 +7,8 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+![R-CMD-check](https://github.com/spatialworks/wwarnsurveyr/workflows/R-CMD-check/badge.svg)
+[![CodeFactor](https://www.codefactor.io/repository/github/spatialworks/wwarnsurveyr/badge)](https://www.codefactor.io/repository/github/spatialworks/wwarnsurveyr)
 <!-- badges: end -->
 
 The WorldWide Antimalarial Resistance Network (WWARN)’s mission is to
