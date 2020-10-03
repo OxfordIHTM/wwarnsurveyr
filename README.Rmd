@@ -17,13 +17,15 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
-![R-CMD-check](https://github.com/spatialworks/wwarnsurveyr/workflows/R-CMD-check/badge.svg)
+[![R-CMD-check](https://github.com/spatialworks/wwarnsurveyr/workflows/R-CMD-check/badge.svg)](https://github.com/spatialworks/wwarnsurveyr/actions?query=workflow%3AR-CMD-check)
 [![CodeFactor](https://www.codefactor.io/repository/github/spatialworks/wwarnsurveyr/badge)](https://www.codefactor.io/repository/github/spatialworks/wwarnsurveyr)
 <!-- badges: end -->
 
-The WorldWide Antimalarial Resistance Network (WWARN)'s mission is to generate innovative tools and reliable evidence to inform the malaria community on the factors affecting the efficacy of antimalarial medicines. WWARN works with collaborators to optimise the efficacy of antimalarial medicines and treatment regimens, especially for vulnerable groups including pregnant women, infants and malnourished children, and provides evidence to inform the development of new antimalarial drugs. WWARN also engages and works with other disease research communities to replicate this model for other tropical and neglected diseases. WWARN's interactive maps summarise data from published studies and data stored in the WWARN data centre.
+The [WorldWide Antimalarial Resistance Network (WWARN)](https://www.wwarn.org)'s mission is to generate innovative tools and reliable evidence to inform the malaria community on the factors affecting the efficacy of antimalarial medicines. [WWARN](https://www.wwarn.org) works with collaborators to optimise the efficacy of antimalarial medicines and treatment regimens, especially for vulnerable groups including pregnant women, infants and malnourished children, and provides evidence to inform the development of new antimalarial drugs. [WWARN](https://www.wwarn.org) also engages and works with other disease research communities to replicate this model for other tropical and neglected diseases. [WWARN](https://www.wwarn.org)'s interactive maps summarise data from published studies and data stored in the [WWARN](https://www.wwarn.org) data centre.
 
 ## Installation
+
+`wwarnsurveyr` is not yet available on [CRAN](https://cran-r.project.org).
 
 <!--
 You can install the released version of wwarnsurveyr from [CRAN](https://CRAN.R-project.org) with:
@@ -33,7 +35,7 @@ install.packages("wwarnsurveyr")
 ```
 -->
 
-The development version of `wwarnsurveyr` from [GitHub](https://github.com/spatialworks/wwarnsurveyr) with:
+The development version of `wwarnsurveyr` can be installed from [GitHub](https://github.com/spatialworks/wwarnsurveyr) with:
 
 ```{r install_dev, echo = TRUE, eval = FALSE}
 if(!require(remotes)) install.packages("remotes")
