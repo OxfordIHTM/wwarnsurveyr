@@ -21,7 +21,7 @@ chemoprophylaxis (SMC).  Because these two preventive treatments are now
 being widely deployed, there is renewed interest in the level of resistance
 to these antimalarials. This dataset provides information on the prevalence
 of molecular markers associated with resistance to SP found in
-*Plasmodium falciparum* malaria parasite by year and location.
+\emph{Plasmodium falciparum} malaria parasite by year and location.
 }
 \examples{
 sulphadoxine

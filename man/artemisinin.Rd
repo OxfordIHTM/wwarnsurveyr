@@ -5,26 +5,25 @@
 \alias{artemisinin}
 \title{Artemisinin resistance based on molecular marker in the Kelch 13 gene}
 \format{
-A tibble with 2434 rows and 16 columns:
-
-| **Variable** | **Description** |
-| :--- | :--- |
-| `continent` | Name of continent |
-| `val` | Effect on clearance |
-| `country` | Name of country |
-| `year` | Year |
-| `tested` | Number of cases tested |
-| `prev` | Prevalence of Kelch 13 gene molecular marker |
-| `lon` | Longitude coordinate for site location |
-| `title` | Title of paper from which data was derived |
-| `pubMedId` | PubMed identifier |
-| `sid` | Site identifier |
-| `mutation` | Type of mutation |
-| `site` | Name of site |
-| `estLoc` | Location |
-| `present` | Number of cases where mutation was present |
-| `lat` | Latitude coordinate for site location |
-| `authors` | Name of authors of paper from which data was derived |
+A tibble with 2434 rows and 16 columns:\tabular{ll}{
+   \strong{Variable} \tab \strong{Description} \cr
+   \code{continent} \tab Name of continent \cr
+   \code{val} \tab Effect on clearance \cr
+   \code{country} \tab Name of country \cr
+   \code{year} \tab Year \cr
+   \code{tested} \tab Number of cases tested \cr
+   \code{prev} \tab Prevalence of Kelch 13 gene molecular marker \cr
+   \code{lon} \tab Longitude coordinate for site location \cr
+   \code{title} \tab Title of paper from which data was derived \cr
+   \code{pubMedId} \tab PubMed identifier \cr
+   \code{sid} \tab Site identifier \cr
+   \code{mutation} \tab Type of mutation \cr
+   \code{site} \tab Name of site \cr
+   \code{estLoc} \tab Location \cr
+   \code{present} \tab Number of cases where mutation was present \cr
+   \code{lat} \tab Latitude coordinate for site location \cr
+   \code{authors} \tab Name of authors of paper from which data was derived \cr
+}
 }
 \source{
 https://www.wwarn.org/tracking-resistance/artemisinin-molecular-surveyor

@@ -14,8 +14,8 @@ https://www.wwarn.org/tracking-resistance/vivax-surveyor
 vivax
 }
 \description{
-Data on prevalence of *Plasmodium vivax* antimalarial clinical trials across
-the world. The data are derived from a recent review of *Plasmodium vivax*
+Data on prevalence of \emph{Plasmodium vivax} antimalarial clinical trials across
+the world. The data are derived from a recent review of \emph{Plasmodium vivax}
 antimalarial clinical trials.
 }
 \examples{
