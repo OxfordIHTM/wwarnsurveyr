@@ -1,6 +1,6 @@
-title: wwarn
+title: wwarnsurveyr
 
-url: https://spatialworks.io/wwarn
+url: https://spatialworks.io/wwarnsurveyr/
 
 template:
   params:
@@ -19,7 +19,7 @@ template:
 reference:
   - title: Description
     contents:
-    - wwarn
+    - wwarnsurveyr
 
   - title: Datasets
     contents:
