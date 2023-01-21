@@ -20,8 +20,8 @@ data from published studies and data stored in the WWARN data centre.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/spatialworks/wwarnsurveyr}
-  \item Report bugs at \url{https://github.com/spatialworks/wwarnsurveyr/issues}
+  \item \url{https://github.com/OxfordIHTM/wwarnsurveyr}
+  \item Report bugs at \url{https://github.com/OxfordIHTM/wwarnsurveyr/issues}
 }
 
 }
